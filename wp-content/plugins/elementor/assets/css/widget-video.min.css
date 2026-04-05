@@ -68,6 +68,7 @@
   }
 }
 .elementor-widget-video .e-hosted-video .elementor-video {
+  border-radius: 350px;
   -o-object-fit: cover;
   object-fit: cover;
 }
