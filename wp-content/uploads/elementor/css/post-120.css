@@ -85,9 +85,9 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   letter-spacing: 0.45em;
   -webkit-text-stroke-width: 3px;
   stroke-width: 3px;
-  -webkit-text-stroke-color: var(--e-global-color-secondary);
+  -webkit-text-stroke-color: #b3ff00;
   stroke: var(--e-global-color-secondary);
-  color: #00e8ff1f;
+  color: #ff0000;
   text-shadow: 0px 0px 41px rgba(0, 255, 211.76086956521746, 0.3);
 }
 .elementor-120 .elementor-element.elementor-element-b3940fb .bdt-ep-button,
@@ -128,10 +128,10 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   z-index: 10;
 }
 .elementor-120 .elementor-element.elementor-element-b3940fb .bdt-ep-button {
-  color: var(--e-global-color-secondary);
+  color: #ff0068;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #00e8ff80;
+  border-color: #fff000;
   padding: 5px 25px 5px 25px;
 }
 .elementor-120
@@ -238,14 +238,14 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   width: 43%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #fffb00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-120 .elementor-element.elementor-element-b50c767 img {
   width: 100%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #fffb00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-bc-flex-widget
@@ -336,10 +336,10 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   padding: 0px 0px 0px 0px;
 }
 .elementor-120 .elementor-element.elementor-element-0b08c13 .bdt-ep-button {
-  color: var(--e-global-color-secondary);
+  color: #ff0068;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #00e8ff80;
+  border-color: #fff000;
   padding: 5px 25px 5px 25px;
 }
 .elementor-120
@@ -354,7 +354,7 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   width: 100%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #ebff00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-bc-flex-widget
@@ -385,7 +385,7 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   font-family: "Advent Pro", Sans-serif;
   font-size: 16px;
   line-height: 47px;
-  color: #00e8ff;
+  color: #fff000;;
 }
 .elementor-120
   .elementor-element.elementor-element-121400b
@@ -422,14 +422,14 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   width: 68%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #ebff00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-120 .elementor-element.elementor-element-cdb9b08 img {
   width: 68%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #ebff00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-bc-flex-widget
@@ -520,10 +520,10 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   padding: 0px 0px 0px 0px;
 }
 .elementor-120 .elementor-element.elementor-element-3aa9f1f .bdt-ep-button {
-  color: var(--e-global-color-secondary);
+  color: #ff0068;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: #00e8ff80;
+  border-color: #fff000;
   padding: 5px 25px 5px 25px;
 }
 .elementor-120
@@ -538,7 +538,7 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   width: 69%;
   border-style: solid;
   border-width: 1px 1px 1px 1px;
-  border-color: var(--e-global-color-secondary);
+  border-color: #ebff00;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-bc-flex-widget
@@ -1188,7 +1188,7 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   font-family: "Advent Pro", Sans-serif;
   font-size: 16px;
   line-height: 47px;
-  color: #00e8ff;
+  color: #fff000;;
 }
 .elementor-120
   .elementor-element.elementor-element-d08c50c
@@ -1270,7 +1270,7 @@ body.rtl .elementor-120 .elementor-element.elementor-element-aa0e63e {
   font-family: "Advent Pro", Sans-serif;
   font-size: 16px;
   line-height: 47px;
-  color: #00e8ff;
+  color: #fff000;;
 }
 .elementor-120
   .elementor-element.elementor-element-cd92a0b
